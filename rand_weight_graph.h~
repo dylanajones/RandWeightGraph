@@ -1,0 +1,18 @@
+using namespace std;
+
+#include "node.h"
+
+class rand_weight_graph
+{
+    public:
+    
+        rand_weight_graph();
+    
+    private:
+    
+        int num_nodes;
+    
+        Node* vert_list;
+        
+        int** cost_mat;
+}

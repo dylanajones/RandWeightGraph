@@ -1,0 +1,6 @@
+#include "rand_weight_graph.h"
+
+rand_weight_graph::rand_weight_graph()
+{
+
+}
